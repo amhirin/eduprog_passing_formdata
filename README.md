@@ -3,3 +3,7 @@ Halo, Saya **A.M Hirin** seorang ***Penulis Buku IT***, ***International Freelan
 
 # eduprog_passing_formdata
  Contoh passing data (lempar data) antar halaman / form pada Flutter
+
+![Image of Preview][prev]
+
+[prev]: prev.gif
